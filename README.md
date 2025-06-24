@@ -1,10 +1,10 @@
 # fastai_cv_portfolio
-Fast.ai Practical DL Portfolio
+Fast.ai Practical Deep Learning Portfolio
 
 ## fast.ai Portfolio
 
 - **Lesson 1: Getting Started**  
-  - \`fastai/lesson1_getting_started/\` 에 실습 & 프로젝트 정리
+  - Practice examples & project materials in \`fastai/getting_started/\`
 - **Lesson 8: Convolutions (CNNs)**  
-  - \`fastai/lesson8_convolutions/\` 에 실습 & 프로젝트 정리
+  - Practice examples & project materials in \`fastai/convolutions_cnn/\`
 
