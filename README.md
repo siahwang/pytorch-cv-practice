@@ -9,3 +9,11 @@ Deep Learning & Computer Vision Portfolio
   - Practice examples & project materials in \`DeepLearningForCoders/Part_III_Foundations/Chapter_13_Convolutional_Neural_Networks/\`
 
 
+## Stanford CS231n Side Study
+
+- **Neural Networks Module**  
+  - Image Classification, Linear Classification, SGD, Backpropagation, Activation & Architecture, Data & Loss, Learning & Evaluation  
+  - Notes & scratch implementations in \`CS231n/Neural_Networks/\`
+- **Convolutional Neural Networks Module**  
+  - Conv/Pooling Architectures, CNN Visualization, Transfer Learning  
+  - Notes & examples in \`CS231n/Conv_NN/\`
