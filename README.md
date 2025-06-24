@@ -1,10 +1,11 @@
-# fastai_cv_portfolio
-Fast.ai Practical Deep Learning Portfolio
+# cv_portfolio
+Deep Learning & Computer Vision Portfolio
 
-## fast.ai Portfolio
+## DeepLearningForCoders (Fast.ai)
 
-- **Lesson 1: Getting Started**  
-  - Practice examples & project materials in \`fastai/getting_started/\`
-- **Lesson 8: Convolutions (CNNs)**  
-  - Practice examples & project materials in \`fastai/convolutions_cnn/\`
+- **Chapter 05: Image Classification**  
+  - Practice examples & project materials in \`DeepLearningForCoders/Part_II_Applications/Chapter_05_Image_Classification/\`
+- **Chapter 13: Convolutional Neural Networks**  
+  - Practice examples & project materials in \`DeepLearningForCoders/Part_III_Foundations/Chapter_13_Convolutional_Neural_Networks/\`
+
 
