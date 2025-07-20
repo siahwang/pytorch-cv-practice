@@ -2,6 +2,10 @@
 
 This repository showcases my hands-on work in PyTorch, fastai, transfer learning, and ResNet reproduction
 ---
+## Folder Structure
+
+### 1. `pytorch-basics/`
+Contains tutorial notebooks covering core PyTorch concepts and workflows:
 
 Each subfolder includes a `README.md` summarizing the key lesson and pointing to its notebook.
 
