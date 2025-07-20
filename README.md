@@ -12,7 +12,7 @@ Each subfolder includes a `README.md` summarizing the key lesson and pointing to
 ---
 
 ### 2. `fastai_mini_cv/`
-Hands-on experiments following fastai book chapters 5, 13, and 14:
+Hands-on experiments following fastai book (Deep Learning for Coders) chapters 5, 13, and 14:
 - **ch5_ImageClassification/**  
   DataBlock API experiments, presizing vs. on-the-fly resizing, batch-size comparisons.  
 - **ch13_CNN/**  
