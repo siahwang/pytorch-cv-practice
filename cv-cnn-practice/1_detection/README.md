@@ -13,7 +13,7 @@ This folder contains practical experiments using the YOLOv5 object detection mod
 ## Experiments Covered
 - Comparison of YOLOv5 variants (n, s, m, l) in terms of accuracy vs. speed
 - Effect of confidence threshold on precision-recall trade-off
-- (Optional) IoU threshold tuning for NMS, if added later
 
 ## Output
 - All experiments and visualizations are included in `yolov5-sia.ipynb`
+
