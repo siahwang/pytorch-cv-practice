@@ -1,4 +1,4 @@
-# Computer Vision 
+# PyTorch CV Practice 
 
 This repository showcases my hands-on work in PyTorch, fastai, and transfer learning
 ---
