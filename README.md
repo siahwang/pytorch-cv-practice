@@ -1,6 +1,6 @@
 # Computer Vision 
 
-This repository showcases my hands-on work in PyTorch, fastai, transfer learning, and ResNet reproduction
+This repository showcases my hands-on work in PyTorch, fastai, and transfer learning
 ---
 ## Folder Structure
 
