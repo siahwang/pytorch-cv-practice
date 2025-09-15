@@ -1,4 +1,4 @@
-# CV Internship Portfolio
+# Computer Vision 
 
 This repository showcases my hands-on work in PyTorch, fastai, transfer learning, and ResNet reproduction
 ---
